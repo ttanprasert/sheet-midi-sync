@@ -1,6 +1,8 @@
 # sheet-midi-sync
 Code and data repository for ISMIR 2019 paper: MIDI–SHEET MUSIC ALIGNMENT USING BOOTLEG SCORE SYNTHESIS
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 ## Notebooks
 1. PrepScoreData: This notebook preprocesses the sheet music data. It convert multiple-page pdf sheet music into image of musical strips with empty border removed.
 2. SheetMidiSync: This is the main notebook of this project. It converts MIDI into bootleg score and convert sheet music into notehead blobs before aligning them with DTW. The outputs are saved into a newly created hyp_align folder to be evaluated by notebook 3.
