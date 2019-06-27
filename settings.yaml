@@ -1,0 +1,7 @@
+--- 
+CELLPHONE_IMG_PATH: /data/mirlab/scores_cellphone_dataset
+DB_PATH: /data/mirlab/scores_dataset
+DEEPSCORES_PATH: /data/mirlab/DeepScores
+SCANNED_ANNOTATION_IMAGE_PATH: /home/mirlab/Workspace/SheetSync/noteheadDetector/score_data/prepped_png
+SCANNED_ANNOTATION_PATH: /home/mirlab/Workspace/SheetSync/noteheadDetector/annot_data/note_annot.csv
+version: 1.0
