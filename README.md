@@ -18,17 +18,16 @@ Code and data repository for ISMIR 2019 paper: MIDI–SHEET MUSIC ALIGNMENT USIN
 ### Language
 Python 3
 
-### Dependencies (INCLUDE VERSIONS)
-- Numpy
-- ImageMagick
-- cv2
-- opencv
-- PIL
-- Scipy
-- Sklearn
-- Librosa
-- Mido
-- Pretty_midi
+### Dependencies
+- Numpy 1.16.2
+- ImageMagick 
+- opencv-python 3.4.5.20
+- Pillow 5.4.1
+- scipy 1.2.1
+- scikit-learn 0.20.3
+- librosa 0.6.3 
+- mido 1.2.9
+- pretty_midi 0.2.8
 
 ## Additional notes
 The sheet_id folder contains the code needed to run notehead detection with deep-convolutional neural network.
