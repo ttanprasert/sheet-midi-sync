@@ -21,6 +21,8 @@ Python 3
 ### Dependencies
 - Numpy 1.16.2
 - ImageMagick 
+- Keras 2.2.4 
+- tensorflow-gpu 1.8.0
 - opencv-python 3.4.5.20
 - Pillow 5.4.1
 - scipy 1.2.1
