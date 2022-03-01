@@ -32,6 +32,6 @@ Python 3
 - pretty_midi 0.2.8
 
 ## Additional notes
-The sheet_id folder contains the code needed to run notehead detection with deep-convolutional neural network.
+The sheet_id folder contains the code needed to run notehead detection with deep-convolutional neural network. Download the neural network model weight from a separate source (https://www.dropbox.com/s/m5gc90vodpy8wce/dwd-re-finetune-20000.h5?dl=0) and put it in sheet_id folder to run the notebooks.
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
